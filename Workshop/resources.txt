@@ -1,0 +1,16 @@
+https://developer.apple.com/machine-learning/ (Machine learning home page van apple)
+https://developer.apple.com/documentation/createml (Documentatie van CreateML)
+https://developer.apple.com/documentation/coreml (Documentatie van CoreML)
+https://developer.apple.com/videos/play/wwdc2018/713/ - Introducing Natural Language Framework
+https://developer.apple.com/videos/play/wwdc2018/703 - Introducing Create ML
+https://developer.apple.com/videos/play/wwdc2018/708/ - What’s New in Core ML, Part 1
+https://developer.apple.com/videos/play/wwdc2018/709/ - What’s New in Core ML, Part 2
+https://developer.apple.com/videos/play/wwdc2018/712 - A Guide to Turi Create
+https://developer.apple.com/documentation/coreml/converting_trained_models_to_core_ml (Converting Trained Models to Core ML) 
+https://stackoverflow.com/questions/50709748/how-to-import-and-use-createml-or-createmlui-in-xcode ( macOS Mojave 10.14 is dus vereist om CoreML te gebruiken)
+https://developer.apple.com/documentation/createml/creating_an_image_classifier_model (Creating an Image Classifier Model) 
+https://developer.apple.com/videos/play/wwdc2018/703/ (Demo1 gebaseerd op in de video van minuut 10:40 t\m 17:40)
+https://www.appcoda.com/coreml2/ - What’s New in Core ML 2 (Super goede artikel dat eigenlijk de WWDC 2018 filmpjes m.b.t. CoreML 2 samenvat) 
+https://www.youtube.com/watch?v=rEDzUT3ymw4 -  Explained In A Minute: Neural Networks  (neural network uitgelegd onder 1 minuut)
+https://www.youtube.com/watch?v=NNKPbdT9gXU&list=LL8a8gpD2VtORjdrZ6JWfm3Q  - Core ML Tutorial: Create a Simple Machine Learning App - Image Classification (Uitleg hoe gebruik je GoogleNetPlaces model in app)
+https://www.youtube.com/watch?v=9lYdChdgzJ0&list=LL8a8gpD2VtORjdrZ6JWfm3Q - Swift - Custom Core ML Model (Hoe maak je een model in swift en Turi en hoe gebruik je het in app)
