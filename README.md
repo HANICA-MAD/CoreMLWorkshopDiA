@@ -1,0 +1,2 @@
+# CoreMLWorkshopDiA
+Workshop CoreML
