@@ -1,4 +1,4 @@
-Required steps do run this demo:
+Required steps to run this demo:
 
 1. Have python 2.7.15
 2. Have pip installed : sudo easy_install pip
